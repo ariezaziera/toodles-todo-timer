@@ -1,0 +1,4 @@
+1. Sleep
+2. Breakfast
+3. Lunch
+4. Study
